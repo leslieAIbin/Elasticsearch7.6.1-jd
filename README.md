@@ -1,5 +1,4 @@
 # ElasticSearch_jd
-狂神说 ElasticSearch
 # 项目介绍
 ElasticSearch入门，利用爬虫技术获取京东信息，放置到es，通过es进行检索
 # 开发
